@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+jupyter
+nltk.download('vader_lexicon')
+nltk.download('stopwords')
